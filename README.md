@@ -1,5 +1,3 @@
-<div data-importer="techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
 
 # 💫 About Me:
 - 🔭 I work as an AI Automation Engineer<br>- 🌱 I’m currently learning Web technologies, React, Docker, Linux<br><br>My code works, and I have no idea why.
