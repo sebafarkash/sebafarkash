@@ -3,7 +3,7 @@
 </div>
 
 # 💫 About Me:
-- 🔭 I work as an AI Automation Engineer<br>- 🌱 I’m currently learning Web technologies, React, Docker, Linux<br><br>My code works, and I have no idea why.
+- 🔭 I work as an AI Automation Engineer - 🌱 I’m currently learning Web technologies, React, Docker, Linux<br><br>My code works, and I have no idea why.
 
 
 ## 🌐 Socials:
